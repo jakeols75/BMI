@@ -1,0 +1,12 @@
+/*  the body tag changes the background color to an aquamarine color and makes all the text align center on the page*/
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+/*the h1 tag changes the font size to make it larger and easier to read the paragraph tag does the same to make the text larger*/
+h1{
+    font-size: 2rem;
+}
+p{
+    font-size: 1.5rem;
+}
